@@ -3,6 +3,11 @@
 ios공부
 
 강의 보면서 공부중인 파일 올리는 곳
-현재 StoryBoard -> uikit으로 다시 작성하여 올리는 중
 
-autolayout : 명언 생성기
+uikit과 swiftUI 둘을 이용해서 제작중
+
+1장 
+명언 생성기 : uikit 완/ swiftUI 완
+전광판 : uikit 완/ swiftUI 완
+계산기 : uikit 완/ swiftUI 완
+
