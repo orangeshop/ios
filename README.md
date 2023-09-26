@@ -11,3 +11,4 @@ uikit과 swiftUI 둘을 이용해서 제작중
 전광판 : uikit 완/ swiftUI 완
 계산기 : uikit 완/ swiftUI 완
 
+animation : side_bar
